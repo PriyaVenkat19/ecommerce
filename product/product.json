@@ -1,0 +1,26 @@
+
+    [
+        {
+            "id":1,
+            "name":"SOFA",
+            "price":"Rs.20000",
+            "img":"product/img/img3.jpg"
+
+        },
+        {
+            "id":2,
+            "name":"DINING TABLE",
+            "price":"Rs.15000",
+            "img":"product/img/img2.jpg"
+            
+        },
+        {
+            "id":3,
+            "name":"LAPTOP",
+            "price":"Rs.25000",
+            "img":"product/img/img1.jpg"
+            
+        }
+
+    ]
+
